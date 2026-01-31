@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Open Source", Big Buck Bunny (CGI Animation)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 group-title="Open Source", Elephants Dream (First Open Movie)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1 group-title="Open Source", Sintel (Action/Fantasy)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1 group-title="Open Source", Tears of Steel (Sci-Fi VFX)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+#EXTINF:-1 group-title="Public Domain", TV Test Patterns (Color Calibration)
+https://archive.org/download/tv-test-patterns-2/TV%20Test%20Patterns.mp4
