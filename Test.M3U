@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Open Source", Test 1 (Adaptive HLS)
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="Space", NASA TV (Public Feed)
+https://ntv1.akamaized.net/hls/live/2026442/NASA-NTV1-Public/master.m3u8
 
-#EXTINF:-1 group-title="Open Source", Test 2 (VFX Test)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 group-title="News", Deutsche Welle English (Live)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 group-title="Open Source", Test 3 (4K/HD Adaptive)
+#EXTINF:-1 group-title="News", France 24 English (Live)
+https://static.france24.com/live/F24_EN_LO_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="Test", Akamai Adaptive Test Stream
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+
+#EXTINF:-1 group-title="Test", Bitmovin Demo Stream
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="Technical Test", Test 4 (High Bitrate Test)
-https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
